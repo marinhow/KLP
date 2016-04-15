@@ -1,0 +1,2362 @@
+<DocumentCodesSet>
+  <DocumentCodes>
+    <BREVKODE>SM337</BREVKODE>
+    <Beskrivelse>FT, kond.tilbud, beh.vraket</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM338</BREVKODE>
+    <Beskrivelse>FT, kond.tilbud</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM339</BREVKODE>
+    <Beskrivelse>FT, krav om egenandel</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM340</BREVKODE>
+    <Beskrivelse>FT, mulig brudd sikkerhetsfors</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM341</BREVKODE>
+    <Beskrivelse>FT, info klageadgang</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM342</BREVKODE>
+    <Beskrivelse>FT, purring på krav</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM343</BREVKODE>
+    <Beskrivelse>FT, siste purring skmld</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM344</BREVKODE>
+    <Beskrivelse>FT, retur ufullstendig skmld</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM345</BREVKODE>
+    <Beskrivelse>FT, skade under egenandel</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM346</BREVKODE>
+    <Beskrivelse>FT, voldgift</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM347</BREVKODE>
+    <Beskrivelse>FT, sluttmelding</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM348</BREVKODE>
+    <Beskrivelse>FT, kond.tilbud tyveri</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM349</BREVKODE>
+    <Beskrivelse>FT, tyveriskade-info</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM350</BREVKODE>
+    <Beskrivelse>FT, uforsikret kjøretøy</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM351</BREVKODE>
+    <Beskrivelse>FT, varsel brudd sikkerhets</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM352</BREVKODE>
+    <Beskrivelse>FT, varsel inkasso</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM353</BREVKODE>
+    <Beskrivelse>Erkj til MP u kasko</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM354</BREVKODE>
+    <Beskrivelse>MP, ansvarsforespørsel</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM355</BREVKODE>
+    <Beskrivelse>MP, snøras, forsikring?</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM356</BREVKODE>
+    <Beskrivelse>MP, sykkel, forsikring?</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM357</BREVKODE>
+    <Beskrivelse>MP, info leiebils-krav</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM358</BREVKODE>
+    <Beskrivelse>MP, kond.tilbud</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM359</BREVKODE>
+    <Beskrivelse>MP selskap, purring</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM360</BREVKODE>
+    <Beskrivelse>MP selskap, dokumentasjon?</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM361</BREVKODE>
+    <Beskrivelse>MP selskap, stilet faktura</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM362</BREVKODE>
+    <Beskrivelse>MP selskap, regresskrav</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM363</BREVKODE>
+    <Beskrivelse>MP selskap, be om skademld</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM364</BREVKODE>
+    <Beskrivelse>Erkj MP selskap, MP u kasko</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM365</BREVKODE>
+    <Beskrivelse>Erkj MP selskap</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM366</BREVKODE>
+    <Beskrivelse>Ber MP selskap erkjenne</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM367</BREVKODE>
+    <Beskrivelse>Politi, bil KLPs eiendom</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM368</BREVKODE>
+    <Beskrivelse>Politi, regress i straffesak</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM369</BREVKODE>
+    <Beskrivelse>Politi, retur pol.dok</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM370</BREVKODE>
+    <Beskrivelse>Politi, utlån pol.dok</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM400</BREVKODE>
+    <Beskrivelse>Erkj til MP selskap-MP u kasko</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM401</BREVKODE>
+    <Beskrivelse>Erkj til MP selskap</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM402</BREVKODE>
+    <Beskrivelse>Erkj til MP uten kasko</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM403</BREVKODE>
+    <Beskrivelse>Avsl FT ansvar bet MP</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM404</BREVKODE>
+    <Beskrivelse>Avsl FT skade innb av MP til o</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM405</BREVKODE>
+    <Beskrivelse>Avsl vi bet kaskoskaden</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM406</BREVKODE>
+    <Beskrivelse>Be FT innbet EA redning</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM407</BREVKODE>
+    <Beskrivelse>Be om innbet fra MP selskap</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM408</BREVKODE>
+    <Beskrivelse>Bekr skm ansvar FT u skade</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM409</BREVKODE>
+    <Beskrivelse>Bekr skm ansvar MP + FT kasko</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM410</BREVKODE>
+    <Beskrivelse>Bekr skm FT ansvar + kasko</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM411</BREVKODE>
+    <Beskrivelse>Bekr skm FT ansvar - ikke kask</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM412</BREVKODE>
+    <Beskrivelse>Bekr skm FT ansvar MP mva</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM413</BREVKODE>
+    <Beskrivelse>Bekr skm kasko FT skade u EA</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM414</BREVKODE>
+    <Beskrivelse>Bekr skm kaskoskade</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM415</BREVKODE>
+    <Beskrivelse>Bekr skm skylddeling FT kasko</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM416</BREVKODE>
+    <Beskrivelse>Bekr skm glass</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM417</BREVKODE>
+    <Beskrivelse>Ber FT innbet ea under skade</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM418</BREVKODE>
+    <Beskrivelse>Ber FT innbet ea over skade</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM419</BREVKODE>
+    <Beskrivelse>Ber FT innbet mva MP skade</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM420</BREVKODE>
+    <Beskrivelse>Ber FT sende kaskokrav</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM421</BREVKODE>
+    <Beskrivelse>Ber MP selskap erkjenne</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM422</BREVKODE>
+    <Beskrivelse>Ber MP selsk. kontakte FT u ka</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM423</BREVKODE>
+    <Beskrivelse>Ber om pol dok</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM424</BREVKODE>
+    <Beskrivelse>Ber om skm FT</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM425</BREVKODE>
+    <Beskrivelse>Fritekst</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM336</BREVKODE>
+    <Beskrivelse>FT, kasko, dyr</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM426</BREVKODE>
+    <Beskrivelse>Generell info om LB</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM427</BREVKODE>
+    <Beskrivelse>Gjort opp GL skade</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM428</BREVKODE>
+    <Beskrivelse>GU varsel bil trillet</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM429</BREVKODE>
+    <Beskrivelse>Info om at vi innhenter skm</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM430</BREVKODE>
+    <Beskrivelse>Innh skm pga faktura + takst</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM431</BREVKODE>
+    <Beskrivelse>Klageadgang avsnitt</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM432</BREVKODE>
+    <Beskrivelse>Kondemnasjon MP bhold vrak</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM433</BREVKODE>
+    <Beskrivelse>Kondemnasjonstilbud til FT</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM434</BREVKODE>
+    <Beskrivelse>Kontantoppgjør MP</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM435</BREVKODE>
+    <Beskrivelse>Oversender vrakavtale v.kjøper</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM436</BREVKODE>
+    <Beskrivelse>Purrer FT på innbetaling</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM437</BREVKODE>
+    <Beskrivelse>Purrer MP selskap på innbet</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM438</BREVKODE>
+    <Beskrivelse>Purring skm</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM439</BREVKODE>
+    <Beskrivelse>Retur verks.faktura, ikke skm</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM440</BREVKODE>
+    <Beskrivelse>Retur LB faktura</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM441</BREVKODE>
+    <Beskrivelse>Til trafikkstasjonen</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM442</BREVKODE>
+    <Beskrivelse>Til verksted FT ikke GL-RE</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM443</BREVKODE>
+    <Beskrivelse>Til verksted ikke gitt utlev</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM444</BREVKODE>
+    <Beskrivelse>Til verksted omstilling av fak</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM445</BREVKODE>
+    <Beskrivelse>Vrakavtale til v.kjøper oppbyg</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM446</BREVKODE>
+    <Beskrivelse>Utbetaling utland</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM447</BREVKODE>
+    <Beskrivelse>Ufullst skm dato</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM451</BREVKODE>
+    <Beskrivelse>Ft: Ikke leiebil</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM700</BREVKODE>
+    <Beskrivelse>Fra SL</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM701</BREVKODE>
+    <Beskrivelse>Fra Adv</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM702</BREVKODE>
+    <Beskrivelse>Fra takstmann</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM703</BREVKODE>
+    <Beskrivelse>Fra Verksted</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM704</BREVKODE>
+    <Beskrivelse>Fra utreder</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM705</BREVKODE>
+    <Beskrivelse>Fra FT</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM706</BREVKODE>
+    <Beskrivelse>Krav fra FT</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM707</BREVKODE>
+    <Beskrivelse>Fra MP</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM715</BREVKODE>
+    <Beskrivelse>Fra Forsikringsselskap</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM716</BREVKODE>
+    <Beskrivelse>Krav fra forsikringsselskap</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM720</BREVKODE>
+    <Beskrivelse>Fra Andre</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM723</BREVKODE>
+    <Beskrivelse>Avgjørelse fra TAU/3. manns utv.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM724</BREVKODE>
+    <Beskrivelse>Voldgiftdom</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM725</BREVKODE>
+    <Beskrivelse>Voldgiftsavtale</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM728</BREVKODE>
+    <Beskrivelse>Fra Biltilsynet</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM734</BREVKODE>
+    <Beskrivelse>Fra AKU</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM743</BREVKODE>
+    <Beskrivelse>Aksept kondemnasjonsrapport</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM744</BREVKODE>
+    <Beskrivelse>Salgsmelding</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM745</BREVKODE>
+    <Beskrivelse>Retur vrakavtale</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM795</BREVKODE>
+    <Beskrivelse>Faktura</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM920</BREVKODE>
+    <Beskrivelse>Sbh notat (på kø)</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM921</BREVKODE>
+    <Beskrivelse>Sbh notat (ikke på kø)</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM922</BREVKODE>
+    <Beskrivelse>Notat til Leder</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM923</BREVKODE>
+    <Beskrivelse>Notat fra Leder</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM924</BREVKODE>
+    <Beskrivelse>Leder: Storskademelding</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM990</BREVKODE>
+    <Beskrivelse>E-post inngående</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM995</BREVKODE>
+    <Beskrivelse>E-post utgående</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP100</BREVKODE>
+    <Beskrivelse>1. gangsmelding</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP110</BREVKODE>
+    <Beskrivelse>Skm YSK</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP111</BREVKODE>
+    <Beskrivelse>Skm YSY</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP112</BREVKODE>
+    <Beskrivelse>Skm FRT</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP113</BREVKODE>
+    <Beskrivelse>Skm Barneforsikring (Ny)</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP114</BREVKODE>
+    <Beskrivelse>Skm Personskade bil</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP115</BREVKODE>
+    <Beskrivelse>Skm Skole/Barnehage</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP120</BREVKODE>
+    <Beskrivelse>Fullmakt</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP130</BREVKODE>
+    <Beskrivelse>Legeerklæring</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP131</BREVKODE>
+    <Beskrivelse>Spesialisterklæring</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP132</BREVKODE>
+    <Beskrivelse>Tannlegeerklæring</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP133</BREVKODE>
+    <Beskrivelse>Journal</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP190</BREVKODE>
+    <Beskrivelse>Trygdedok.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP200</BREVKODE>
+    <Beskrivelse>Til SL</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP201</BREVKODE>
+    <Beskrivelse>Til Advokat</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP210</BREVKODE>
+    <Beskrivelse>Til Arb.giver</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP215</BREVKODE>
+    <Beskrivelse>Til Forsikringselskap</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP220</BREVKODE>
+    <Beskrivelse>Til Andre</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP221</BREVKODE>
+    <Beskrivelse>Til Politiet</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP222</BREVKODE>
+    <Beskrivelse>Til NAV</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP300</BREVKODE>
+    <Beskrivelse>Nullskade fritid</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP301</BREVKODE>
+    <Beskrivelse>Nullskade YRK</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP302</BREVKODE>
+    <Beskrivelse>Nullskade YRK tenner</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP303</BREVKODE>
+    <Beskrivelse>1.gangs YRK</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP304</BREVKODE>
+    <Beskrivelse>1.gangs fritid</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP305</BREVKODE>
+    <Beskrivelse>1.gangs m forbehold om flm</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP306</BREVKODE>
+    <Beskrivelse>1.gangs m forbehold-GU</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP307</BREVKODE>
+    <Beskrivelse>1.gangs y-sykdom</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP308</BREVKODE>
+    <Beskrivelse>1.gangs YRK-bil</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP309</BREVKODE>
+    <Beskrivelse>1.gangs Bil-fritid med regress</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP310</BREVKODE>
+    <Beskrivelse>1. gangs Barneforsikring</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP315</BREVKODE>
+    <Beskrivelse>Be om skademelding</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP316</BREVKODE>
+    <Beskrivelse>Brev om ingen fors dekning</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP317</BREVKODE>
+    <Beskrivelse>Be om skadeforklaring m flm</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP318</BREVKODE>
+    <Beskrivelse>Be om skademld v tannlege</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP319</BREVKODE>
+    <Beskrivelse>Be om orgnr-fnr for honorar</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP320</BREVKODE>
+    <Beskrivelse>Ansv bilselskap-info regress</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP330</BREVKODE>
+    <Beskrivelse>Innhent primærlegejournal</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP331</BREVKODE>
+    <Beskrivelse>Innhent journal fysio</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP332</BREVKODE>
+    <Beskrivelse>Innhent trygdedok 1.gang</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP333</BREVKODE>
+    <Beskrivelse>Innh trygdemappe-y-sykdom</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP334</BREVKODE>
+    <Beskrivelse>Innh trygdemappe y-skade</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP335</BREVKODE>
+    <Beskrivelse>Mandat til spesialist</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP336</BREVKODE>
+    <Beskrivelse>Mandat med inv skl død</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP337</BREVKODE>
+    <Beskrivelse>Mandat psyk</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP338</BREVKODE>
+    <Beskrivelse>Info skl-innhent speserkl</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP339</BREVKODE>
+    <Beskrivelse>Innhent fra NAV-arbeid</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP340</BREVKODE>
+    <Beskrivelse>Innhent ligningsopplysninger</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP341</BREVKODE>
+    <Beskrivelse>Innhent pol dok</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP350</BREVKODE>
+    <Beskrivelse>Blank brevmal</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP351</BREVKODE>
+    <Beskrivelse>Be om status</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP360</BREVKODE>
+    <Beskrivelse>Avslag</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP361</BREVKODE>
+    <Beskrivelse>Brev Ingen dekning</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP370</BREVKODE>
+    <Beskrivelse>Sistegangsbrev</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP371</BREVKODE>
+    <Beskrivelse>Særskilt varsel foreldelse</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP372</BREVKODE>
+    <Beskrivelse>Særskilt varsel foreldelse-bil</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP380</BREVKODE>
+    <Beskrivelse>Tilbud om erstatning</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP381</BREVKODE>
+    <Beskrivelse>Utbetaling/behandlingsutgifter</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP382</BREVKODE>
+    <Beskrivelse>Oppgjør-utbet m regress</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP383</BREVKODE>
+    <Beskrivelse>Oppgjør fritid erverv</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP384</BREVKODE>
+    <Beskrivelse>Oppgjør fritid men</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP385</BREVKODE>
+    <Beskrivelse>Oppgjør fritid men og erverv</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP386</BREVKODE>
+    <Beskrivelse>Oppgjør lidt innt tap</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP387</BREVKODE>
+    <Beskrivelse>Oppgjør overformynderiet</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP388</BREVKODE>
+    <Beskrivelse>Oppgjør yrk hta</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP389</BREVKODE>
+    <Beskrivelse>Oppgjør yrk tariff red lov</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP390</BREVKODE>
+    <Beskrivelse>Oppgjør yrk-lov</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP391</BREVKODE>
+    <Beskrivelse>Oppgjør yrk-lov-advokat</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP395</BREVKODE>
+    <Beskrivelse>Purring</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP396</BREVKODE>
+    <Beskrivelse>Purring Adv.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP397</BREVKODE>
+    <Beskrivelse>Purring andre FS</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP398</BREVKODE>
+    <Beskrivelse>Purring TK</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP399</BREVKODE>
+    <Beskrivelse>Purring - div instanser</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP700</BREVKODE>
+    <Beskrivelse>Fra SL</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP701</BREVKODE>
+    <Beskrivelse>Fra Advokat</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP704</BREVKODE>
+    <Beskrivelse>Fra Utreder</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP710</BREVKODE>
+    <Beskrivelse>Fra Arbeidsgiver</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP715</BREVKODE>
+    <Beskrivelse>Fra Fors.selsk</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP720</BREVKODE>
+    <Beskrivelse>Fra Andre</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP722</BREVKODE>
+    <Beskrivelse>Fra NAV</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP727</BREVKODE>
+    <Beskrivelse>Ligningsopplysninger</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP729</BREVKODE>
+    <Beskrivelse>Fra Nemnden for Helsebedømming</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP743</BREVKODE>
+    <Beskrivelse>Svar på tilbud / erstatningskvittering</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP746</BREVKODE>
+    <Beskrivelse>Krav om gjenopptak</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP790</BREVKODE>
+    <Beskrivelse>Kvitteringer/krav fra SL</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP795</BREVKODE>
+    <Beskrivelse>Faktura</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP910</BREVKODE>
+    <Beskrivelse>Resymè</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP920</BREVKODE>
+    <Beskrivelse>Notat (på kø)</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP921</BREVKODE>
+    <Beskrivelse>Notat (ikke på kø)</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP924</BREVKODE>
+    <Beskrivelse>Notat til rådg. lege</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP925</BREVKODE>
+    <Beskrivelse>Notat fra rådg. lege</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP940</BREVKODE>
+    <Beskrivelse>Beregning Compensatio</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP990</BREVKODE>
+    <Beskrivelse>E-post innkommende</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP995</BREVKODE>
+    <Beskrivelse>E-post utgående</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR110</BREVKODE>
+    <Beskrivelse>Skm Reise</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR130</BREVKODE>
+    <Beskrivelse>Legeerklæring</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR146</BREVKODE>
+    <Beskrivelse>Kvittering / dokumentasjon</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR190</BREVKODE>
+    <Beskrivelse>Bekr. utbetaling</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR200</BREVKODE>
+    <Beskrivelse>Til SL</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR201</BREVKODE>
+    <Beskrivelse>Til Adv.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR205</BREVKODE>
+    <Beskrivelse>Til FT</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR206</BREVKODE>
+    <Beskrivelse>Ft: Kommentar</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR215</BREVKODE>
+    <Beskrivelse>Til Fors.selsk.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR220</BREVKODE>
+    <Beskrivelse>Til Andre</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR242</BREVKODE>
+    <Beskrivelse>Ft: Avkortning</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR706</BREVKODE>
+    <Beskrivelse>Krav fra FT</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR270</BREVKODE>
+    <Beskrivelse>Ft: Purring utestående krav</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR715</BREVKODE>
+    <Beskrivelse>Fra Fors.selsk</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR716</BREVKODE>
+    <Beskrivelse>Krav fra Fors.selsk.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR720</BREVKODE>
+    <Beskrivelse>Fra Andre</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR274</BREVKODE>
+    <Beskrivelse>Purring</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR301</BREVKODE>
+    <Beskrivelse>Andre, reg.dobbeltfors.FAL</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR724</BREVKODE>
+    <Beskrivelse>Fra SOS International</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR734</BREVKODE>
+    <Beskrivelse>Fra AKU</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR743</BREVKODE>
+    <Beskrivelse>Svar erst.tilbud</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR795</BREVKODE>
+    <Beskrivelse>Faktura</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR920</BREVKODE>
+    <Beskrivelse>Notat (på kø)</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR302</BREVKODE>
+    <Beskrivelse>Andre, utbetaling SOS</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR921</BREVKODE>
+    <Beskrivelse>Notat (ikke på kø)</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR922</BREVKODE>
+    <Beskrivelse>Notat til Leder</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR923</BREVKODE>
+    <Beskrivelse>Notat fra Leder</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR924</BREVKODE>
+    <Beskrivelse>Leder: storskademelding</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR990</BREVKODE>
+    <Beskrivelse>E-post inngående</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR995</BREVKODE>
+    <Beskrivelse>E-post utgående</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB715</BREVKODE>
+    <Beskrivelse>Fra forsikringsselskap</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB701</BREVKODE>
+    <Beskrivelse>Fra advokat</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB722</BREVKODE>
+    <Beskrivelse>Fra NAV</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB705</BREVKODE>
+    <Beskrivelse>Fra FT</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM721</BREVKODE>
+    <Beskrivelse>Krav fra andre</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST100</BREVKODE>
+    <Beskrivelse>1. gangsmelding</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST110</BREVKODE>
+    <Beskrivelse>Skm Eiendom / Ting</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST141</BREVKODE>
+    <Beskrivelse>Takstrapport</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST143</BREVKODE>
+    <Beskrivelse>Statusrapport</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST145</BREVKODE>
+    <Beskrivelse>Skadeoppgave løsøre</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST146</BREVKODE>
+    <Beskrivelse>Kvittering / dokumentasjon</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST160</BREVKODE>
+    <Beskrivelse>Ansvarserkjennelse</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST200</BREVKODE>
+    <Beskrivelse>Til SL</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST201</BREVKODE>
+    <Beskrivelse>Til Adv.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR303</BREVKODE>
+    <Beskrivelse>FT, avkort.brudd sikkerhetsfor</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST202</BREVKODE>
+    <Beskrivelse>Til Takstmann</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST203</BREVKODE>
+    <Beskrivelse>Rekvisisjon takst</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST204</BREVKODE>
+    <Beskrivelse>Til Utreder</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST205</BREVKODE>
+    <Beskrivelse>Til FT</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR304</BREVKODE>
+    <Beskrivelse>FT, avslag avbestilling</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST215</BREVKODE>
+    <Beskrivelse>Til Fors.selsk.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR305</BREVKODE>
+    <Beskrivelse>FT, avslag forsinket ankomst</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST220</BREVKODE>
+    <Beskrivelse>Til Andre</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR306</BREVKODE>
+    <Beskrivelse>FT, avslag reisegods medvirk</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST221</BREVKODE>
+    <Beskrivelse>Til Politiet: Pol.dok</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR307</BREVKODE>
+    <Beskrivelse>FT, innhente dok.avbestilling</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST225</BREVKODE>
+    <Beskrivelse>Skjønnsprotokoll</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR308</BREVKODE>
+    <Beskrivelse>FT, innhente oppl.reisegods</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST300</BREVKODE>
+    <Beskrivelse>Regress dok. krav generelt</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST301</BREVKODE>
+    <Beskrivelse>Regress etter Bustadsoppf.L</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST302</BREVKODE>
+    <Beskrivelse>Regress etter Lov om Håndv</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR309</BREVKODE>
+    <Beskrivelse>FT, innhente oppl.stort tyveri</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST303</BREVKODE>
+    <Beskrivelse>Regress ved tilbakeslag</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST304</BREVKODE>
+    <Beskrivelse>Regress sprengningsskade</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR310</BREVKODE>
+    <Beskrivelse>FT, klageadgang</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST305</BREVKODE>
+    <Beskrivelse>Rekvirering av skadesanering</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST306</BREVKODE>
+    <Beskrivelse>FT, avkortning FAL 4-9</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST307</BREVKODE>
+    <Beskrivelse>FT, avkortning frost-hus hjem</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST308</BREVKODE>
+    <Beskrivelse>FT, avslag- ikke dekning/fors</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST309</BREVKODE>
+    <Beskrivelse>FT, avslag-vann utenfra</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST310</BREVKODE>
+    <Beskrivelse>FT, avslag-krav foreldet</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST311</BREVKODE>
+    <Beskrivelse>FT, avslag-utett isolerglass</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST312</BREVKODE>
+    <Beskrivelse>FT, avslag utett våtrom</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR311</BREVKODE>
+    <Beskrivelse>FT, oppgjør avbestilling</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST313</BREVKODE>
+    <Beskrivelse>FT, e.messig-oppgjør iht takst</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST314</BREVKODE>
+    <Beskrivelse>FT, e.messig skade-takst vedl</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR312</BREVKODE>
+    <Beskrivelse>FT, oppgjør avbrutt ferie</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST315</BREVKODE>
+    <Beskrivelse>FT, innbetaling av egenandel</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST316</BREVKODE>
+    <Beskrivelse>FT, natur-forbedr.ikke dekket</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR313</BREVKODE>
+    <Beskrivelse>FT, oppgjør behandlingsutgifte</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST317</BREVKODE>
+    <Beskrivelse>Ft, natur-oppgjør iht takst</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST318</BREVKODE>
+    <Beskrivelse>FT, natur-forbedringer</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR314</BREVKODE>
+    <Beskrivelse>FT, oppgjør forsinket bagasje</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST319</BREVKODE>
+    <Beskrivelse>FT, oppgjør aldersfr innbo</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST320</BREVKODE>
+    <Beskrivelse>Ft, oppgjør aldersfr el-fenome</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR315</BREVKODE>
+    <Beskrivelse>FT, oppgjør hjemkallelse</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR316</BREVKODE>
+    <Beskrivelse>FT, oppgjør reisesgods enkel</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR317</BREVKODE>
+    <Beskrivelse>FT, oppgjør r.gods m verdivurd</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST321</BREVKODE>
+    <Beskrivelse>FT, oppgjør m spesifisering</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST322</BREVKODE>
+    <Beskrivelse>FT, oppgjør rørskade-aldersfr</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR318</BREVKODE>
+    <Beskrivelse>FT, Innhente mobildata</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR700</BREVKODE>
+    <Beskrivelse>Fra SL</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST323</BREVKODE>
+    <Beskrivelse>FT, oppgjørsalternativer priva</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST324</BREVKODE>
+    <Beskrivelse>FT, mulig avkortning</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST325</BREVKODE>
+    <Beskrivelse>FT, purring på krav</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST326</BREVKODE>
+    <Beskrivelse>FT, rørskade-ønsker besiktig</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST327</BREVKODE>
+    <Beskrivelse>FT, sykkeltyveri-dokumentasjon</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR701</BREVKODE>
+    <Beskrivelse>Fra Adv.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR704</BREVKODE>
+    <Beskrivelse>Fra Utreder</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST328</BREVKODE>
+    <Beskrivelse>FT, sykkeltyveri-Falck</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST329</BREVKODE>
+    <Beskrivelse>FT, skade under egenandel</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SR705</BREVKODE>
+    <Beskrivelse>Fra FT</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST330</BREVKODE>
+    <Beskrivelse>Politi, regress-KLPs eiendom</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST331</BREVKODE>
+    <Beskrivelse>Politi, regress skadevolder</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST332</BREVKODE>
+    <Beskrivelse>Politi, sykkel KLPs eiendom</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST333</BREVKODE>
+    <Beskrivelse>Politi, utlån pol.dok</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST334</BREVKODE>
+    <Beskrivelse>TM, takstrekvisisjon-frost</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST335</BREVKODE>
+    <Beskrivelse>TM, takstrekvisisjon</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST336</BREVKODE>
+    <Beskrivelse>Regressvurdering</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST400</BREVKODE>
+    <Beskrivelse>Regress skadevolder 1</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST401</BREVKODE>
+    <Beskrivelse>Regress skadevolder 2</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST402</BREVKODE>
+    <Beskrivelse>Rekvirering av skadesanering</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST403</BREVKODE>
+    <Beskrivelse>FT, alder innbo og løsøre</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF371</BREVKODE>
+    <Beskrivelse>Avgjørelse KLPs k.nemnd</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA100</BREVKODE>
+    <Beskrivelse>1. gangsmelding</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA111</BREVKODE>
+    <Beskrivelse>Skm Ansvar</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA112</BREVKODE>
+    <Beskrivelse>Skademelding Rettshjelp</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA113</BREVKODE>
+    <Beskrivelse>Regressvurdering</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA141</BREVKODE>
+    <Beskrivelse>Takstrapport</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA146</BREVKODE>
+    <Beskrivelse>Kvittering / dokumentasjon</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA160</BREVKODE>
+    <Beskrivelse>Ansvarserkjennelse</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA200</BREVKODE>
+    <Beskrivelse>Til SL</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA201</BREVKODE>
+    <Beskrivelse>Til Adv.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA202</BREVKODE>
+    <Beskrivelse>Til Takstmann</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA205</BREVKODE>
+    <Beskrivelse>Til FT</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA206</BREVKODE>
+    <Beskrivelse>Ft: Kommentar</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA215</BREVKODE>
+    <Beskrivelse>Til Fors.selsk.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA216</BREVKODE>
+    <Beskrivelse>Til Fors.selsk.: Avslag</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA217</BREVKODE>
+    <Beskrivelse>Varsel om regress</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA220</BREVKODE>
+    <Beskrivelse>Til Andre</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA221</BREVKODE>
+    <Beskrivelse>Til Politiet: Pol.dok</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA223</BREVKODE>
+    <Beskrivelse>Til DNMI</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA242</BREVKODE>
+    <Beskrivelse>Avslag</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA243</BREVKODE>
+    <Beskrivelse>Erst.tilbud</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA250</BREVKODE>
+    <Beskrivelse>Ft: Avslut.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA253</BREVKODE>
+    <Beskrivelse>Ft: Skade under EA</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA256</BREVKODE>
+    <Beskrivelse>Oppgjør FT</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA257</BREVKODE>
+    <Beskrivelse>Oppgjør SL</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA258</BREVKODE>
+    <Beskrivelse>Oppgjør Fors.selsk.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA259</BREVKODE>
+    <Beskrivelse>Fors.selsk.: Skade under EA</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA274</BREVKODE>
+    <Beskrivelse>Purring</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA281</BREVKODE>
+    <Beskrivelse>Åpningsbrev</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA700</BREVKODE>
+    <Beskrivelse>Fra SL</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA701</BREVKODE>
+    <Beskrivelse>Fra Adv.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA702</BREVKODE>
+    <Beskrivelse>Fra Takstmann</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA705</BREVKODE>
+    <Beskrivelse>Fra FT</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA706</BREVKODE>
+    <Beskrivelse>Krav fra FT</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA715</BREVKODE>
+    <Beskrivelse>Fra Fors.selsk</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA716</BREVKODE>
+    <Beskrivelse>Krav fra Fors.selsk.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA720</BREVKODE>
+    <Beskrivelse>Fra Andre</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA743</BREVKODE>
+    <Beskrivelse>Svar erst.tilbud</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA791</BREVKODE>
+    <Beskrivelse>Kvittering innbet.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA795</BREVKODE>
+    <Beskrivelse>Faktura</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA920</BREVKODE>
+    <Beskrivelse>Notat (på kø)</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA921</BREVKODE>
+    <Beskrivelse>Notat (ikke på kø)</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA924</BREVKODE>
+    <Beskrivelse>Storskademelding</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA990</BREVKODE>
+    <Beskrivelse>E-post innkommende</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SA995</BREVKODE>
+    <Beskrivelse>E-post utgående</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB110</BREVKODE>
+    <Beskrivelse>Skademelding skolebarn</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB111</BREVKODE>
+    <Beskrivelse>Skademelding barnehage</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB120</BREVKODE>
+    <Beskrivelse>Fullmakt</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB130</BREVKODE>
+    <Beskrivelse>Legeerklæring</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB132</BREVKODE>
+    <Beskrivelse>Tannlegeerklæring</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB133</BREVKODE>
+    <Beskrivelse>Journal</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB200</BREVKODE>
+    <Beskrivelse>Til SL</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB201</BREVKODE>
+    <Beskrivelse>Til advokat</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB205</BREVKODE>
+    <Beskrivelse>Til FT</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB215</BREVKODE>
+    <Beskrivelse>Til fors.selsk</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB300</BREVKODE>
+    <Beskrivelse>Barn 0 el 1.gang</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB301</BREVKODE>
+    <Beskrivelse>Tann bhbarn</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB302</BREVKODE>
+    <Beskrivelse>Tann skolebarn</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB305</BREVKODE>
+    <Beskrivelse>Orientering skade</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB320</BREVKODE>
+    <Beskrivelse>Innhent dokumentasjon</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF146</BREVKODE>
+    <Beskrivelse>Kvittering / dokumentasjon</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF200</BREVKODE>
+    <Beskrivelse>Til SL</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF201</BREVKODE>
+    <Beskrivelse>Til Adv.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF202</BREVKODE>
+    <Beskrivelse>Til Takstmann</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF204</BREVKODE>
+    <Beskrivelse>Til Utreder</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF205</BREVKODE>
+    <Beskrivelse>Til FT</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF206</BREVKODE>
+    <Beskrivelse>Ft: Kommentar</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF207</BREVKODE>
+    <Beskrivelse>Til MP</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF210</BREVKODE>
+    <Beskrivelse>Til Verksted</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF215</BREVKODE>
+    <Beskrivelse>Til Fors.selsk.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF220</BREVKODE>
+    <Beskrivelse>Til Andre</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF242</BREVKODE>
+    <Beskrivelse>Ft: Avslag</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF249</BREVKODE>
+    <Beskrivelse>Ft: Avkortning</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF270</BREVKODE>
+    <Beskrivelse>Ft: Purring utestående krav</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF301</BREVKODE>
+    <Beskrivelse>Klage fra FKK - Person/Ansvar</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF302</BREVKODE>
+    <Beskrivelse>Klage fra FKK - Ting</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF310</BREVKODE>
+    <Beskrivelse>Forliksklage</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF311</BREVKODE>
+    <Beskrivelse>Stevning</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF312</BREVKODE>
+    <Beskrivelse>Tilsvar</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF313</BREVKODE>
+    <Beskrivelse>Ankeerklæring</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF314</BREVKODE>
+    <Beskrivelse>Anketilsvar</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF315</BREVKODE>
+    <Beskrivelse>Prosesskriv</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF320</BREVKODE>
+    <Beskrivelse>Fra FiNKN</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF321</BREVKODE>
+    <Beskrivelse>Til FiNKN</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF330</BREVKODE>
+    <Beskrivelse>Til Forliksrådet</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF331</BREVKODE>
+    <Beskrivelse>Fra Retten</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF340</BREVKODE>
+    <Beskrivelse>Til Voldgiftsdommer</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF350</BREVKODE>
+    <Beskrivelse>Dom / rettsavgjørelse</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF700</BREVKODE>
+    <Beskrivelse>Fra SL</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF701</BREVKODE>
+    <Beskrivelse>Fra Adv.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF702</BREVKODE>
+    <Beskrivelse>Fra Takstmann</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF703</BREVKODE>
+    <Beskrivelse>Fra Verksted</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF704</BREVKODE>
+    <Beskrivelse>Fra Utreder</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF705</BREVKODE>
+    <Beskrivelse>Fra FT</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF706</BREVKODE>
+    <Beskrivelse>Krav fra FT</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF707</BREVKODE>
+    <Beskrivelse>Fra MP</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF708</BREVKODE>
+    <Beskrivelse>Fra Håndtverker</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF710</BREVKODE>
+    <Beskrivelse>Fra arbeidsgiver</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF715</BREVKODE>
+    <Beskrivelse>Fra Fors.selsk</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF716</BREVKODE>
+    <Beskrivelse>Krav fra Fors.selsk.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF720</BREVKODE>
+    <Beskrivelse>Fra Andre</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF721</BREVKODE>
+    <Beskrivelse>Krav fra andre</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF722</BREVKODE>
+    <Beskrivelse>Fra NAV</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF724</BREVKODE>
+    <Beskrivelse>Fra SOS International</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF730</BREVKODE>
+    <Beskrivelse>Politidokumenter</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF734</BREVKODE>
+    <Beskrivelse>Fra AKU</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF743</BREVKODE>
+    <Beskrivelse>Svar erstatningstilbud</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF791</BREVKODE>
+    <Beskrivelse>Innbetaling</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF795</BREVKODE>
+    <Beskrivelse>Faktura</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF920</BREVKODE>
+    <Beskrivelse>Notat (på kø)</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF921</BREVKODE>
+    <Beskrivelse>Notat (ikke på kø)</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF990</BREVKODE>
+    <Beskrivelse>E-post innkommende</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF995</BREVKODE>
+    <Beskrivelse>E-post utgående</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SF999</BREVKODE>
+    <Beskrivelse>Skannet dok. for Skadeavdelingen</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM100</BREVKODE>
+    <Beskrivelse>1. gangsmelding</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM110</BREVKODE>
+    <Beskrivelse>Skm FT</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM111</BREVKODE>
+    <Beskrivelse>Ansvarsforespørsel fra MP</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM140</BREVKODE>
+    <Beskrivelse>Vitneuttalelse</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM141</BREVKODE>
+    <Beskrivelse>Takstrapport</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM144</BREVKODE>
+    <Beskrivelse>Kondemnasjonsrapport</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM145</BREVKODE>
+    <Beskrivelse>Skadeoppgave løsøre</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM146</BREVKODE>
+    <Beskrivelse>Kvittering / dokumentasjon</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM160</BREVKODE>
+    <Beskrivelse>Ansvarserkjennelse fra MP</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM190</BREVKODE>
+    <Beskrivelse>Bekr. utbetaling</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM200</BREVKODE>
+    <Beskrivelse>Til SL</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM201</BREVKODE>
+    <Beskrivelse>Til Adv.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM202</BREVKODE>
+    <Beskrivelse>Til Takstmann</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM204</BREVKODE>
+    <Beskrivelse>Til Utreder</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM205</BREVKODE>
+    <Beskrivelse>Til FT</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM206</BREVKODE>
+    <Beskrivelse>Ft: Kommentar</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM210</BREVKODE>
+    <Beskrivelse>Til Verksted</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM215</BREVKODE>
+    <Beskrivelse>Til Fors.selsk.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM220</BREVKODE>
+    <Beskrivelse>Til Andre</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM242</BREVKODE>
+    <Beskrivelse>Ft: Avslag</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM249</BREVKODE>
+    <Beskrivelse>Ft: Avkortning</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM270</BREVKODE>
+    <Beskrivelse>Ft: Purring utestående krav</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM300</BREVKODE>
+    <Beskrivelse>TAU Skjema</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM301</BREVKODE>
+    <Beskrivelse>Bekrefte rettshjelpdekning</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM302</BREVKODE>
+    <Beskrivelse>GU varsel fører ulik eier</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM303</BREVKODE>
+    <Beskrivelse>Kondemnasjonstilbud leasing</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM304</BREVKODE>
+    <Beskrivelse>Retur av LB faktura</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM305</BREVKODE>
+    <Beskrivelse>Mulig avkortning GL</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM306</BREVKODE>
+    <Beskrivelse>Oversendelsesbrev oppbygg</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM307</BREVKODE>
+    <Beskrivelse>Oversendelsesbrev hugging</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM308</BREVKODE>
+    <Beskrivelse>Sak oversendes inkasso</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM309</BREVKODE>
+    <Beskrivelse>Til trafikkstasjonen</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM310</BREVKODE>
+    <Beskrivelse>Takkebrev til vitne</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM311</BREVKODE>
+    <Beskrivelse>TFF, uforsikret mp</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM312</BREVKODE>
+    <Beskrivelse>Versted-ståtid</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM313</BREVKODE>
+    <Beskrivelse>Verksted-omstilling</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM314</BREVKODE>
+    <Beskrivelse>Verksted-retur av faktura</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM315</BREVKODE>
+    <Beskrivelse>Vitne-be om uttalelse</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM316</BREVKODE>
+    <Beskrivelse>Vrakavtale hugging</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM317</BREVKODE>
+    <Beskrivelse>Vrakavtale oppbygging</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM318</BREVKODE>
+    <Beskrivelse>FT, be om skademelding</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM319</BREVKODE>
+    <Beskrivelse>FT, avventer pol.dok</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM320</BREVKODE>
+    <Beskrivelse>FT, ber om kommentar</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM321</BREVKODE>
+    <Beskrivelse>FT, bonusberøvende innbet</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM322</BREVKODE>
+    <Beskrivelse>FT, brannskade - info</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM323</BREVKODE>
+    <Beskrivelse>FT, eneulykke</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM324</BREVKODE>
+    <Beskrivelse>FT, erstatningsoppgave</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM325</BREVKODE>
+    <Beskrivelse>FT,fritekstbrev</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM326</BREVKODE>
+    <Beskrivelse>FT, GU - sovnet bak rattet</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM327</BREVKODE>
+    <Beskrivelse>FT, fritekstbrev</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM328</BREVKODE>
+    <Beskrivelse>FT, GU-varsel, fører=eier</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM329</BREVKODE>
+    <Beskrivelse>FT, ikke kasko, uklart ansvar</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM330</BREVKODE>
+    <Beskrivelse>FT, ikke kasko, MP ansvar</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM331</BREVKODE>
+    <Beskrivelse>FT, ikke kasko, vårt ansvar</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM332</BREVKODE>
+    <Beskrivelse>FT, intet hørt-avsluttes</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM333</BREVKODE>
+    <Beskrivelse>FT, purrer krav, utbetalt MP</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM334</BREVKODE>
+    <Beskrivelse>FT, kasko, FT ansvar</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SM335</BREVKODE>
+    <Beskrivelse>FT, kasko, MP ansvar</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST404</BREVKODE>
+    <Beskrivelse>FT, avkortning brannskade</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST405</BREVKODE>
+    <Beskrivelse>FT, avkortning EDB rekonst</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST406</BREVKODE>
+    <Beskrivelse>FT, avkortning el.fenomenskade</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST407</BREVKODE>
+    <Beskrivelse>FT, avkortning naturskade</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST408</BREVKODE>
+    <Beskrivelse>FT, avkortning vannskade</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST409</BREVKODE>
+    <Beskrivelse>FT, avslag el.fenomen</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST410</BREVKODE>
+    <Beskrivelse>FT, avslag kaskoskade</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST411</BREVKODE>
+    <Beskrivelse>FT, avslag naturskade</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST412</BREVKODE>
+    <Beskrivelse>FT, avslag tyveri</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST413</BREVKODE>
+    <Beskrivelse>FT, avslag utett våtrom</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST414</BREVKODE>
+    <Beskrivelse>FT, avslag vann</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST415</BREVKODE>
+    <Beskrivelse>FT, brannskade orden og renh</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST416</BREVKODE>
+    <Beskrivelse>FT, foreldelse 1 års frist</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST417</BREVKODE>
+    <Beskrivelse>FT, forsikringsplikt</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST418</BREVKODE>
+    <Beskrivelse>FT, forskudd a konto</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST419</BREVKODE>
+    <Beskrivelse>FT, fritekstbrev</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST420</BREVKODE>
+    <Beskrivelse>FT, forsikringen kan omfatte</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST421</BREVKODE>
+    <Beskrivelse>FT, kontantoppgjør iht takst</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST422</BREVKODE>
+    <Beskrivelse>FT, krav til uhildet skjønnsm</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST423</BREVKODE>
+    <Beskrivelse>FT, latente påbud</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST424</BREVKODE>
+    <Beskrivelse>FT, MVA Kompensasjon 010104</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST425</BREVKODE>
+    <Beskrivelse>FT, OBOS-forhøyet egenande</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST426</BREVKODE>
+    <Beskrivelse>FT, OBOS 1</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST427</BREVKODE>
+    <Beskrivelse>FT, oppgjør bedrift</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST428</BREVKODE>
+    <Beskrivelse>FT, oppgjør med spesifisering</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST429</BREVKODE>
+    <Beskrivelse>FT, oppgjør uten spesifisering</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST430</BREVKODE>
+    <Beskrivelse>FT, oppgjørsalternativer</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST431</BREVKODE>
+    <Beskrivelse>FT, oppnevnelse skjønnsmenn</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST432</BREVKODE>
+    <Beskrivelse>FT, info klage avkortning vann</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST433</BREVKODE>
+    <Beskrivelse>FT, skjønnsdokument 1</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST434</BREVKODE>
+    <Beskrivelse>FT, skjønnsdokument 2</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST435</BREVKODE>
+    <Beskrivelse>FT, skjønnsdokument 3</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST436</BREVKODE>
+    <Beskrivelse>FT, purring</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST437</BREVKODE>
+    <Beskrivelse>FT, refusjon egenandel</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST438</BREVKODE>
+    <Beskrivelse>FT, erstattes-takst vedlegges</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST439</BREVKODE>
+    <Beskrivelse>FT, erstattes-naturtakst vedl</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST440</BREVKODE>
+    <Beskrivelse>Ft, skade under egenandel</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST441</BREVKODE>
+    <Beskrivelse>FT, skjønnsberammelse</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST442</BREVKODE>
+    <Beskrivelse>FT, styrt utbedring av takstm</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST443</BREVKODE>
+    <Beskrivelse>FT, svar klage avkortning el-f</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST444</BREVKODE>
+    <Beskrivelse>FT, takst vedl-brudd utv.rør</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST445</BREVKODE>
+    <Beskrivelse>FT, tyveri: u/ea + redningsomk</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST446</BREVKODE>
+    <Beskrivelse>FT, tyveri: erstattes takst ve</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST447</BREVKODE>
+    <Beskrivelse>FT, ukjent skadeårsak</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST448</BREVKODE>
+    <Beskrivelse>FT, vannskade tilsyn m.m</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST449</BREVKODE>
+    <Beskrivelse>FT, mulig brudd sikkerhetsfo</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST450</BREVKODE>
+    <Beskrivelse>FT, åpningsbrev el.fenomen</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST451</BREVKODE>
+    <Beskrivelse>FT, åpningsbrev storskade</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST452</BREVKODE>
+    <Beskrivelse>FT, åpningsbrev</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST453</BREVKODE>
+    <Beskrivelse>Politi, orientering v tyveri</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST454</BREVKODE>
+    <Beskrivelse>Politi, utlån av pol.dok</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST455</BREVKODE>
+    <Beskrivelse>Politi, krav i straffesak</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST456</BREVKODE>
+    <Beskrivelse>Skjønnsmenn, påbud?</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST457</BREVKODE>
+    <Beskrivelse>TM, attestasjon av fakturaer</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST458</BREVKODE>
+    <Beskrivelse>TM, avvik takst</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST459</BREVKODE>
+    <Beskrivelse>TM, purring takstrapport 1</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST460</BREVKODE>
+    <Beskrivelse>TM, purring takstrapport 2</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST461</BREVKODE>
+    <Beskrivelse>TM, rekvisisjon el-fenomen</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST462</BREVKODE>
+    <Beskrivelse>TM, rekvisisjon storskade</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST463</BREVKODE>
+    <Beskrivelse>TM, rekvisisjon vannskade fros</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST464</BREVKODE>
+    <Beskrivelse>TM, rekvisisjon snøtygnde</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST465</BREVKODE>
+    <Beskrivelse>TM, takstrekvisisjon løsøre</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST466</BREVKODE>
+    <Beskrivelse>TM, takstrekvisisjon</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB410</BREVKODE>
+    <Beskrivelse>Andre, anmodning værrapport</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB411</BREVKODE>
+    <Beskrivelse>Andre, mottatt krav bergerlønn</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB412</BREVKODE>
+    <Beskrivelse>Andre, overdragelse aller part</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB413</BREVKODE>
+    <Beskrivelse>Andre, salg til vrakkjøper</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB414</BREVKODE>
+    <Beskrivelse>FT, erst.messig, avventer taks</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB415</BREVKODE>
+    <Beskrivelse>FT, erst.plikt overfor motpart</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB416</BREVKODE>
+    <Beskrivelse>FT, erst.tilbud med overdragel</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB417</BREVKODE>
+    <Beskrivelse>FT, innbetaling av egenandel</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB418</BREVKODE>
+    <Beskrivelse>FT, innhente skademelding</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB419</BREVKODE>
+    <Beskrivelse>FT, krav under egenandel</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB420</BREVKODE>
+    <Beskrivelse>FT, info vi avventer politidok</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB421</BREVKODE>
+    <Beskrivelse>Politi, båt gjenfunnet etter t</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB422</BREVKODE>
+    <Beskrivelse>Politi, eiend.rett overdras KL</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB423</BREVKODE>
+    <Beskrivelse>Politi, regress i straffesak</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SB424</BREVKODE>
+    <Beskrivelse>Politi, utlån av pol.dok</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST470</BREVKODE>
+    <Beskrivelse>Erst.tilbud</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST475</BREVKODE>
+    <Beskrivelse>Purring</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST700</BREVKODE>
+    <Beskrivelse>Fra SL</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST701</BREVKODE>
+    <Beskrivelse>Fra Adv.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST702</BREVKODE>
+    <Beskrivelse>Fra Takstmann</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST704</BREVKODE>
+    <Beskrivelse>Fra utreder</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST705</BREVKODE>
+    <Beskrivelse>Fra FT</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST706</BREVKODE>
+    <Beskrivelse>Krav fra FT</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST708</BREVKODE>
+    <Beskrivelse>Fra Håndverker</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST715</BREVKODE>
+    <Beskrivelse>Fra Fors.selsk</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST716</BREVKODE>
+    <Beskrivelse>Krav fra Fors.selsk.</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST720</BREVKODE>
+    <Beskrivelse>Fra Andre</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST725</BREVKODE>
+    <Beskrivelse>Skjønnsdokument</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST734</BREVKODE>
+    <Beskrivelse>Fra AKU</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST743</BREVKODE>
+    <Beskrivelse>Svar erst.tilbud</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST795</BREVKODE>
+    <Beskrivelse>Faktura</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST920</BREVKODE>
+    <Beskrivelse>Notat (på kø)</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST921</BREVKODE>
+    <Beskrivelse>Notat (ikke på kø)</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST924</BREVKODE>
+    <Beskrivelse>Leder: storskademelding</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST990</BREVKODE>
+    <Beskrivelse>E-post inngående</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>ST995</BREVKODE>
+    <Beskrivelse>E-post utgående</Beskrivelse>
+  </DocumentCodes>
+  <DocumentCodes>
+    <BREVKODE>SP135</BREVKODE>
+    <Beskrivelse>Helseerklæring barn</Beskrivelse>
+  </DocumentCodes>
+</DocumentCodesSet>

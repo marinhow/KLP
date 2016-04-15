@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  <Environment>
+    <EnvironmentName>DEV</EnvironmentName>
+    <Active>false</Active>
+    <Server>C:\KLPtests</Server>
+  </Environment>
+  <Environment>
+    <EnvironmentName>TEST</EnvironmentName>
+    <Active>false</Active>
+    <Server>\\fnbt1klp\FileNet-Import-Batch-Test\documents\skade</Server>
+  </Environment>
+  <Environment>
+    <EnvironmentName>STAGE</EnvironmentName>
+    <Active>false</Active>
+    <Server>\\fnbt1klp\FileNet-Import-Batch-Stage\documents\skade</Server>
+  </Environment>
+  <Environment>
+    <EnvironmentName>PROD</EnvironmentName>
+    <Active>true</Active>
+    <Server>\\fnbp1klp\FileNet-Import-Batch\documents\skade</Server>
+  </Environment>
+</Configuration>

@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="KLPOutlookAddIn.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FileServerPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\fil1klp\data\FileNet-Import-Batch\documents\skade</Value>
+    </Setting>
+    <Setting Name="LocalTempFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\DocTimTempFiles</Value>
+    </Setting>
+    <Setting Name="DocumentCodesFileLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\fnbp1klp\FileNet-Import-Batch\FileNet-Skade_DocList\DocumentCodes.xml</Value>
+    </Setting>
+    <Setting Name="DocumentCodesFileLocationLocalTest" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files (x86)\Microsoft\KLPOffice2013ToolsSetup\DocumentCodes.xml</Value>
+    </Setting>
+    <Setting Name="EnvironmentConfigurationFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\fil1klp\data\FileNet-Skade_DocList\EnvironmentConfiguration.xml</Value>
+    </Setting>
+    <Setting Name="LocalEnvironmentConfigurationFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files (x86)\Microsoft\KLPOffice2013ToolsSetup\EnvironmentConfiguration.xml</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
